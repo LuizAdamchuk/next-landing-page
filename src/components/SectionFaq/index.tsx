@@ -25,21 +25,13 @@ const SectionFaq = ({ title, questions }: SectionFaqProps) => (
         <S.ExtraQuestion>
           <Heading lineBottom>Eu tenho outra dúvida!</Heading>
           <p>
-            Sem problemas! Você pode acessar qualquer uma das{' '}
+            Sem problemas! Você pode acessar{' '}
             <a
-              href="https://willianjusten.com.br/about"
+              href="http://github.com/luizAdamchuk"
               target="_blank"
               rel="noreferrer"
             >
               minhas redes sociais
-            </a>{' '}
-            ou entrar no{' '}
-            <a
-              href="https://willianjusten-cursos.slack.com/join/shared_invite/zt-g20h37hj-GnSb_y7PXCRjS92N9T8LCQ#/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              slack do nosso curso.
             </a>
           </p>
         </S.ExtraQuestion>
